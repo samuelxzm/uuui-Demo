@@ -11,13 +11,11 @@
 		"newFeature": true,
 		"nodeModules": true
 	},
-	"compileType": "plugin",
+	"compileType": "miniprogram",
 	"libVersion": "2.10.4",
-	"appid": "wx316bd02270eb71bc",
+	"appid": "",
 	"projectname": "miniprogram-demo",
 	"isGameTourist": false,
-	"simulatorType": "wechat",
-	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
