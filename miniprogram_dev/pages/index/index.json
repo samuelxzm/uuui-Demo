@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "comp": "../../components/index"
+    "col": "../../components/col/index",
+    "row": "../../components/row/index"
   }
 }

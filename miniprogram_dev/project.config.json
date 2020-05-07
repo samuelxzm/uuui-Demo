@@ -16,6 +16,8 @@
 	"appid": "",
 	"projectname": "miniprogram-demo",
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
