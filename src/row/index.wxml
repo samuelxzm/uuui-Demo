@@ -1,5 +1,3 @@
 <view class="uuui_row">
-<slot></slot>
-<slot></slot>
-<slot></slot>
+<view><slot></slot></view>
 </view>

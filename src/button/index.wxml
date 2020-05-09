@@ -1,1 +1,1 @@
-<button class="index other">anniu</button>
+<button class="index other" style="background:{{color}};height:{{height}}"><slot/></button>

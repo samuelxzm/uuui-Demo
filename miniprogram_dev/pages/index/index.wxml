@@ -1,4 +1,3 @@
-<row>
-<col span="{{1}}">sfsfd</col>
-<col span="{{1}}"><view style="display:flex"><view>1</view><view>3</view></view></col>
-</row>
+<ubutton color="#feff99" height="50rpx"> 
+<view style="font-size:40rpx;line-height:50rpx">按钮</view>
+</ubutton>
