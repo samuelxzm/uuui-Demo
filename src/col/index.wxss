@@ -1,3 +1,5 @@
-.uuui_row{
-    width:100%;
+.uuui_col1{
+    width:8.33333%;
+background: #00ff00;
+
 }

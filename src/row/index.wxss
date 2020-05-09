@@ -1,3 +1,5 @@
 .uuui_row{
     position: relative;
+    diaplay:flex;
+    flex-direction:row;
 }

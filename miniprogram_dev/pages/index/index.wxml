@@ -1,4 +1,4 @@
 <row>
-<col></col>
-<view>sfsfd</view>
+<col span="{{1}}">sfsfd</col>
+<col span="{{1}}"><view style="display:flex"><view>1</view><view>3</view></view></col>
 </row>
