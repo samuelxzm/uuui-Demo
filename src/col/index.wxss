@@ -1,5 +1,48 @@
 .uuui_col1{
-    width:8.33333%;
-background: #00ff00;
+    width:8.33333vw;
+
+}
+.uuui_col2{
+    width:16.66666vw;
+
+}
+.uuui_col3{
+    width:25vw;
+
+}
+.uuui_col4{
+    width:33.33333vw;
+
+}
+.uuui_col5{
+    width:41.66667vw;
+
+}
+.uuui_col6{
+    width:50vw;
+
+}
+.uuui_col7{
+    width:58.33333vw;
+
+}
+.uuui_col8{
+    width:66.66667vw;
+
+}
+.uuui_col9{
+    width:75vw;
+
+}
+.uuui_col10{
+    width:83.33333vw;
+
+}
+.uuui_col11{
+    width:91.66667vw;
+
+}
+.uuui_col12{
+    width:100vw;
 
 }

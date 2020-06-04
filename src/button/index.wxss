@@ -1,0 +1,6 @@
+.plain{
+    background:transparent;
+}
+.circle{
+    border-radius: 50%;
+}

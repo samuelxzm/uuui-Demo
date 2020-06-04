@@ -1,1 +1,3 @@
-<button class="index other" style="background:{{color}};height:{{height}}"><slot/></button>
+<button class="{{plain?'plain':''}}{{circle?'circle':''}}" style="background:{{color}};height:{{height}}">
+<slot/>{{plain}}
+</button>

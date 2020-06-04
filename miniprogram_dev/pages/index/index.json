@@ -1,7 +1,5 @@
 {
   "usingComponents": {
-    "col": "../../components/col/index",
-    "row": "../../components/row/index",
-    "ubutton": "../../components/button/index"
+
   }
 }
